@@ -9,6 +9,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
     </p>
 </h2>
+
+
 - 👋 Hi, I’m @Aurelien-VincentRandonnier
 - 👀 I’m interested in all kinds of programming concept but I have a preference for app development, graphics programming and game development 
 - 🌱 I’m currently learning computer science at the IUT of Paul Sabatier
